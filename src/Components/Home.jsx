@@ -1,10 +1,9 @@
 import React from 'react'
 import { HashRouter as Routes, Route, Link, NavLink } from 'react-router-dom';
-import './App.css';
-import Watch from './Components/Watch';
-import Stopwatch from './Components/Stopwatch';
-import Timer from './Components/Timer';
-import Home from './Components/Home';
+import './Home.css';
+import Watch from './Watch';
+import Stopwatch from './Stopwatch';
+import Timer from './Timer';
 const Home = () => {
   return (
     <div>
