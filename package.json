@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
 "homepage": "https://semaabdullazada.github.io/newreduxx",
+=======
+  "homepage": "https://QadirzadeGultac.github.io/task",
+>>>>>>> 16f91479f27bc5e9e9ee4bef238617c61f5cfe37
   "name": "task",
   "version": "0.1.0",
   "private": true,
