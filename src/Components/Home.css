@@ -1,0 +1,22 @@
+.menu{
+    width: 80%;
+    margin: 25px auto;
+    display: flex;
+    justify-content: space-evenly;
+  }
+  a{
+    text-decoration: none;
+    color: black;
+  }
+  .active{
+    border: 1px solid #951DD1;
+    border-radius: 10px;
+    color: white;
+    background-color: #951DD1;
+  }
+  .menus{
+    height: 30px;
+    padding-top: 5px;
+    width: 10vw;
+    text-align: center;
+  }
